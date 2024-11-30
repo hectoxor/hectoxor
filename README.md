@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently focusing on developing AI mobile apps 
+Currently focusing on developing AI mobile apps 
 
 
 # 💻 Tech Stack:
