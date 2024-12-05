@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently focusing on developing AI mobile apps 
+Focusing on developing AI SaaS B2C startups (mobile apps & websites). Pursuing a career in Quantitative Finance in Hong Kong. 
 
 
 # 💻 Tech Stack:
