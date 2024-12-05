@@ -1,5 +1,5 @@
 # 💫 About Me:
-Focusing on developing AI SaaS B2C startups (mobile apps & MERN Stack websites). Pursuing a career in Quantitative Finance in Hong Kong. 
+Focusing on developing AI SaaS B2C startups (mobile apps & MERN Stack websites). Pursuing a career path in Quantitative Finance (or just Quant) in Hong Kong. 
 
 
 # 💻 Tech Stack:
