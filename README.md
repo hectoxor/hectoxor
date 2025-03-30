@@ -1,5 +1,5 @@
 # 💫 About Me:
-Focusing on developing AI SaaS B2C startups. Pursuing a career path in Financial Engineering. 
+
 
 
 # 💻 Tech Stack:
